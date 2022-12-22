@@ -124,3 +124,17 @@ transition-duration:.2s;
 #loguin form button:hover{
 background-color: var(--rosa-hover);
 }
+
+#loguin form .form-footer{
+display: flex;
+justify-content: center;
+align-items: center;
+margin-top: 30px;
+}
+#loguin form .form-footer p{
+margin:0;
+}
+#loguin form .form-footer img{
+margin-left: 20px;
+
+}
